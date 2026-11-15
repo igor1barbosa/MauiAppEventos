@@ -1,0 +1,11 @@
+## .NET / Visual Studio
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.userprefs
+*.DotSettings.user
+
+## Scratch
+.superpowers/
