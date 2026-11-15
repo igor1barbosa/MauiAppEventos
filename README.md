@@ -24,5 +24,5 @@ Requisitos: Visual Studio 2026 (.NET 10) com a carga de trabalho **.NET Multi-pl
 
 > Se o Visual Studio reclamar do projeto, crie um projeto "App .NET MAUI" novo chamado `MauiAppEventos` e copie para ele as pastas `Models` e `Views`. Apague `MainPage.xaml(.cs)` e `AppShell.xaml(.cs)` do template e troque o `App.xaml.cs` pelo deste repositório.
 
-## Capturas de tela
-Veja `docs/roteiro-capturas.md`.
+## Capturas de tela e vídeo.
+Veja `/Capturas`.
